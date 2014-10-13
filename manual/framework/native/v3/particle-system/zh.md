@@ -78,7 +78,7 @@ Free自由模式，相对于屏幕自由，不会随粒子节点移动而移动�
 - _endSpin			粒子结束自旋角度
 - _endSpinVar			粒子结束自旋角度变化范围
 - _startSpin			粒子开始自旋角度
-- _startSpinVar		粒子开始自旋角度变化范围
+- _startSpinVar			粒子开始自旋角度变化范围
    
 ### 纹理渲染属性:
 
